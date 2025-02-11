@@ -1,12 +1,12 @@
-Instalacja:
+Installation:
 
 - npm install
 
-Uruchomienie:
+Activation:
 
 - npm start
-  Aplikacja będzie dostępna pod adresem http://localhost:3000
+  The application will be available at http://localhost:3000
 
-Testy (opcjonalne):
+Tests (optional):
 
 - npm run test
