@@ -98,7 +98,7 @@ const UserList: React.FC<UserListProps> = ({ query, onTotalCountChange }) => {
         sx={{
           display: "grid",
           gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
-          gap: 2, // Dodaje odstępy 2*8px = 16px między kolumnami i wierszami
+          gap: 2,
           p: 0,
           m: 0,
           width: "100%",
